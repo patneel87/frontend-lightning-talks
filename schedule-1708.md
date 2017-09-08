@@ -12,7 +12,7 @@
 - Maria St. Louis-Sanchez:
 - Matt Renn:
 - Matthew Arvidson:
-- Patrick Neel:
+- Patrick Neel: algotrithims
 - Rob Morgan:
 - Spencer Herms:
 - Thomas Laird:
